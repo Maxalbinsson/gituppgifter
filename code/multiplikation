@@ -1,0 +1,26 @@
+import javax.swing.*;
+
+public class helloworld{
+    public static void main(String[] args) {
+		
+		
+		
+			int( x = 1-10)
+			int( z = 1-10)
+			
+			String a = showinputDialog (välj tabel)
+			
+			if z{
+			string b = showinputDialog (välj start)
+			if x{
+			ShowinputDialog (z*x = z*x)
+			
+			
+
+				
+			
+			
+			
+			
+			
+    }

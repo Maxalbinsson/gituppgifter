@@ -1,0 +1,32 @@
+im  port javax.swing.*;
+
+public class bussbiljet{
+    public static void main(String[] args) {
+		
+			string x = JOptionPane.showinputDialoge (Hur gammal är du)
+			
+			if (x<06){
+			JOptionPane.showinputDialoge(null, gratis biljett);
+		
+			else if (7<=x <= 18){
+			JOptionPane.showmessageDialoge(null,betala 15kr );
+			
+			
+			else if (19<=x <= 26){
+			JOptionPane.showmessageDialoge(null,betala 21kr );
+			
+			else if (27<=x <= 64){
+			JOptionPane.showmessageDialoge(null,betala 28kr );
+			
+			else if (x>64){
+			JOptionPane.showmessageDialoge(null,betala 21kr );
+			
+			
+			
+	}	
+    }
+		
+		
+		
+
+	
